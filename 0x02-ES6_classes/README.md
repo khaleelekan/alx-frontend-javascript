@@ -1,15 +1,14 @@
-# 0x01. ES6 Promises
+# 0x10. ES6 classes
 
 ## Description:bulb:
 
-One simply does not use async/await without knowing promises!
+ES6 Classes for all the things!
 
-- Promises (how, why, and what)
-- How to use the `then`, `resolve`, `catch` methods
-- How to use every method of the Promise object
-- Throw / Try
-- The await operator
-- How to use an `async` function
+- How to define a Class
+- How to add methods to a class
+- Why and how to add a static method to a class
+- How to extend a class from another
+- Metaprogramming and symbols
 
 ## Technologies & Tools:computer:
 
@@ -32,11 +31,8 @@ One simply does not use async/await without knowing promises!
 
 Read or watch:
 
-- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- [JavaScript Promise: An introduction](https://web.dev/promises/)
-- [Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
-- [Async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-- [Throw / Try](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw)
+- [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Metaprogramming](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/#symbolspecies)
 
 ---
 
@@ -75,29 +71,32 @@ foo@pop-os:~$ npm install --save-dev eslint
 
 ## Files:card_file_box:
 
-### [0. Keep every promise you make and only make promises you can keep](./0-promise.js)
+### [0. You used to attend a place like this at some point](./0-classroom.js)
 
-### [1. Don't make a promise...if you know you can't keep it](./1-promise.js)
+### [1. Let's make some classrooms](./1-make_classrooms.js)
 
-### [2. Catch me if you can!](./2-then.js)
+### [2. A Course, Getters, and Setters](./2-hbtn_course.js)
 
-### [3. Handle multiple successful promises](./3-all.js)
+### [3. Methods, static methods, computed methods names..... MONEY](./3-currency.js)
 
-### [4. Simple promise](./4-user-promise.js)
+### [4. Pricing](./4-pricing.js)
 
-### [5. Reject the promises](./5-photo-reject.js)
+### [5. A Building](./5-building.js)
 
-### [6. Handle multiple promises](./6-final-user.js)
+### [6. Inheritance](./6-sky_high.js)
 
-### [7. Load balancer](./7-load_balancer.js)
+### [7. Airport](./7-airport.js)
 
-### [8. Throw error / try catch](./8-try.js)
+### [8. Primitive - Holberton Class](./8-hbtn_class.js)
 
-### [9. Throw an error](./9-try.js)
+### [9. Hoisting](./9-hoisting.js)
 
-### [10. Await / Async](./100-await.js)
+### [10. Vroom](./10-car.js)
+
+### [11. EVcar](./100-evcar.js)
 
 ---
 
 ## Author
+
 ### [Abdulraheem khalilullahi]
